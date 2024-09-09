@@ -1,5 +1,3 @@
-# revisions-python
-
 # PYTHON EXERCICES TP's
 
 
